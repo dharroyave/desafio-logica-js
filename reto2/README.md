@@ -13,7 +13,6 @@ Este reto consiste en desarrollar una simulación básica de un cajero automáti
 ## 🧩 Diagrama de Flujo
 
 ![Diagrama de flujo del Cajero Automático](./assets/diagrama-de-flujo-reto-2.svg)  
-*(Imagen que ilustra la lógica de validación de PIN, retiros y salidas del sistema.)*
 
 ## ✅ Requisitos Técnicos
 

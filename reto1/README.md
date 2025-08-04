@@ -10,7 +10,6 @@ Este reto consiste en desarrollar un sistema de validación de ingreso utilizand
 ## 📊 Diagrama de Flujo  
 
 ![Diagrama de flujo del Control de Acceso](./assets/diagrama-de-flujo-reto-1.svg) 
-*(Imagen que ilustra la lógica condicional del programa: flujo if/else para edad e invitación.)*  
 
 ## 🛠️ Requisitos Técnicos  
 
